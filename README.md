@@ -2,7 +2,7 @@
 
 ## Getting started
 
-In a new terminal window each run:
+In a new terminal window each, run:
 
 + `docker-compose build kafka; docker-compose up kafka`
 + `./create-topic.sh` # only need to do once
